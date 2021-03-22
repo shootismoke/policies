@@ -9,7 +9,7 @@ _Last updated: March 19, 2021_
 
 From everyone at Sh\*\*t I Smoke, thank you for using our products! We build them to help you do your best work. There are thousands of people using Sh\*\*t I Smoke products every day. Because we don't know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to the Sh\*\*t! I Smoke team composed of Marcelo S. Coelho and Amaury M.
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to the Sh\*\*t! I Smoke team composed of Marcelo Scharlau Coelho and Amaury Martiny.
 
 When we say "Web Application", "webapp", we mean the website hosted at https://shootismoke.app.
 
